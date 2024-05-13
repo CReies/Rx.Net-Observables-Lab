@@ -6,7 +6,6 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		Filtering.Single.Exec();
-		SingleOrDefault.Exec();
+		IgnoreElements.Exec();
 	}
 }
