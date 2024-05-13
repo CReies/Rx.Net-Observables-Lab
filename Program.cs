@@ -6,6 +6,7 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		Latest.Exec();
+		Filtering.Single.Exec();
+		SingleOrDefault.Exec();
 	}
 }
