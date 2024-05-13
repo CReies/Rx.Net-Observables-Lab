@@ -6,6 +6,7 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		IgnoreElements.Exec();
+		Last.Exec();
+		LastOrDefault.Exec();
 	}
 }
