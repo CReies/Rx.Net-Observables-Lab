@@ -6,6 +6,6 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		Skip.Exec();
+		SkipLast.Exec();
 	}
 }
