@@ -6,7 +6,6 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		Last.Exec();
-		LastOrDefault.Exec();
+		Sample.Exec();
 	}
 }
