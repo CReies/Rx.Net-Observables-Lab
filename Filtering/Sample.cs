@@ -1,6 +1,4 @@
-﻿using System.Reactive.Linq;
-
-namespace Observables.Lab.Filtering;
+﻿namespace Observables.Lab.Filtering;
 
 public class Sample
 {
