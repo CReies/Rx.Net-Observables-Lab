@@ -6,6 +6,7 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		DistinctUntilChanged.Exec();
+		ElementAt.Exec();
+		ElementAtOrDefault.Exec();
 	}
 }
