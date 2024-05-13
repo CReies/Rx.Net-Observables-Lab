@@ -6,6 +6,7 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		Where.Exec();
+		First.Exec();
+		FirstOrDefault.Exec();
 	}
 }
