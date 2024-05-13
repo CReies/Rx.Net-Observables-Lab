@@ -6,7 +6,6 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		ElementAt.Exec();
-		ElementAtOrDefault.Exec();
+		OfType.Exec();
 	}
 }
