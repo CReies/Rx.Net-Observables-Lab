@@ -6,6 +6,6 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		OfType.Exec();
+		Where.Exec();
 	}
 }
