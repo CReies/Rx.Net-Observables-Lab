@@ -8,6 +8,6 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		StartWith.Exec();
+		Zip.Exec();
 	}
 }
