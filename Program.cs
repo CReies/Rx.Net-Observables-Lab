@@ -7,6 +7,6 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		ManySelect.Exec();
+		SelectMany.Exec();
 	}
 }
