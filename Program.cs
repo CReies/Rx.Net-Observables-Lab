@@ -6,6 +6,6 @@ public class Program
 {
 	static void Main( string[] args )
 	{
-		TakeLast.Exec();
+		Transforming.Buffer.Exec();
 	}
 }
