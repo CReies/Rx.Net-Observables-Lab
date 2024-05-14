@@ -6,8 +6,8 @@ namespace Observables.Lab;
 
 public class Program
 {
-	static void Main(string[] args)
+	static void Main( string[] args )
 	{
-		Merge.Exec();
+		StartWith.Exec();
 	}
 }
