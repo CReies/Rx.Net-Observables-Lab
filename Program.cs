@@ -8,6 +8,6 @@ public class Program
 {
 	static void Main(string[] args)
 	{
-		Join.Exec();
+		Merge.Exec();
 	}
 }
